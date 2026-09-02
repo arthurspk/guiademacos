@@ -206,6 +206,14 @@ brew bundle --file=./Brewfile              # reinstala tudo a partir do Brewfile
 - [Starship](https://starship.rs/) — Prompt de shell rápido e customizável, funciona com zsh, bash e fish.
 - [tmux](https://tmux.github.io/) — Multiplexador de terminal: várias sessões, janelas e painéis dentro de uma única conexão.
 
+> CLI modernas (substitutas de comandos Unix clássicos)
+
+- [fzf](https://github.com/junegunn/fzf) — Buscador fuzzy de linha de comando; filtra arquivos, histórico de comandos e mais em tempo real.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) — Busca de texto em arquivos extremamente rápida, substituto direto do `grep`.
+- [eza](https://eza.rocks/) — Substituto moderno do `ls`, com cores, ícones e suporte a Git.
+- [bat](https://github.com/sharkdp/bat) — Substituto do `cat` com destaque de sintaxe e integração com Git.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) — Substituto inteligente do `cd` que aprende os diretórios mais usados.
+
 > Produtividade e janelas
 
 - [Raycast](https://www.raycast.com/) — Launcher moderno que substitui o Spotlight, com extensões e comandos de IA.
